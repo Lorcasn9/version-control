@@ -1,4 +1,6 @@
 {
-  "ln-radioscanner": "1.0.0",
-  "ln-policejob": "1.0.0"
+  "ln-radioscanner": "2.2.2",
+  "ln-policejob": "2.2.2",
+  "ln-mechanic": "2.2.2",
+  "ln-illegalgarage": "2.2.2"
 }
